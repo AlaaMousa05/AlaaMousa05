@@ -29,7 +29,8 @@
 
 <h2>Skills 🧠💡</h2>
 
-![Skills](https://skillicons.dev/icons?i=c++,java,html,css,bootstrap,datastrcher,vscode,visualstudio,idea)
+![Skills](https://skillicons.dev/icons?i=c++, java , html  , css  , bootstrab,
+                                      vscode,  visualstudio  ,idea)
 
 
 
