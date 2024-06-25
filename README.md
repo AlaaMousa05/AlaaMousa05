@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**AlaaMousa05/AlaaMousa05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>Connect with me 📨</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [![LinkedIn](https://www.linkedin.com/in/alaa-mousa-55888b284/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwZXh0bgNhZW0CMTAAAR3Lq-2Mcot60IzKEW371k0GUF4QnBuUF8S9FWdi8cyydjttVn5d2Ld71ps_aem_bc8yuMWbuQe0x5CaUOQKng)
+&ensp;
+
+
+
+<h2>Skills 🧠💡</h2>
+
+![Skills](https://skillicons.dev/icons?i=c++,java,html,css,bootstrap,jquery,vscode,visualstudio,idea)
+
+
+
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
