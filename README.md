@@ -4,20 +4,23 @@
 <br>
 
 
-<h2>Connect with me 📨</h2>
+<h3 align="left">👋🏻 You Can Find me at:</h3>
 
- [![LinkedIn](https://www.linkedin.com/in/alaa-mousa-55888b284/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwZXh0bgNhZW0CMTAAAR3Lq-2Mcot60IzKEW371k0GUF4QnBuUF8S9FWdi8cyydjttVn5d2Ld71ps_aem_bc8yuMWbuQe0x5CaUOQKng)
-&ensp;
+<p align="left">
+   <a href="https://www.linkedin.com/in/alaa-mousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaamousa" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/alaa-mousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alaa-mousa" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/hakar2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AlaaMousa" height="30" width="40" /></a>
+</p>
 
+<br>
 
 
 <h2>Skills 🧠💡</h2>
 
-![Skills](https://skillicons.dev/icons?i=c++,java,html,css,bootstrap,jquery,vscode,visualstudio,idea)
+![Skills](https://skillicons.dev/icons?i=c++,java,html,css,bootstrap,jquery,vscode,visualstudio,idea,leetcode,codeforces,math,algorithm)
 
 
 
 
 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
