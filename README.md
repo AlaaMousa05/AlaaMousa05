@@ -19,7 +19,7 @@
 
 <p align="left">- 📚 Student at Palestine Technical University kadoorie .<br>- ⚡ I strive to create the best version of myself .</p>
 <hr>
-![IMG_٢٠٢٤٠٧٠٧_٢٠٤٩٥١.jpg](https://github.com/AlaaMousa05/AlaaMousa05/assets/173834285/c77aff0a-9c8f-4b36-af8e-b751ae2a83e4)
+
 
 <h2 align="left"> 🧠🛠 Language and tools</h2>
 
