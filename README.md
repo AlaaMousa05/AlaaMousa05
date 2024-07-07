@@ -1,9 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=222&section=header&text=Hi,%20I'm%20%20Alaa%20mousa!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
 
-<h2 align="center">   Software Engineering 👩🏻‍💻 </h2>
+<h1 align="center">   Software Engineering 👩🏻‍💻 </h1>
   <hr>
 
- <h3 align="left">👋🏻 You Can Find me at:</h3>
+ <h2 align="left">👋🏻 You Can Find me at:</h2>
 
 <p align="left">
    <a href="https://www.linkedin.com/in/alaa-mousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaamousa" height="30" width="40" /></a>
@@ -13,7 +13,7 @@
 <hr>
 
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 
 
@@ -21,7 +21,7 @@
 <hr>
 
 
-<h3 align="left"> 🧠🛠 Language and tools</h3>
+<h2 align="left"> 🧠🛠 Language and tools</h2>
 
 
 
@@ -53,8 +53,8 @@
 <hr>
 
 
-<h3 align="left">🔥   My Stats :</h3>
-
+<h2 align="left">🔥   My Stats :</h2>
+<hr>
 
 
 <div align="center">
@@ -63,11 +63,12 @@
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alaaMousa05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaaMousa05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-###
+
+
 
 
 
