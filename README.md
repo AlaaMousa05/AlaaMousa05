@@ -1,9 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=222&section=header&text=Hi,%20I'm%20%20Alaa%20mousa!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
+
 <h2 align="center">   Software Engineering 👩🏻‍💻 </h2>
   <hr>
 
-
-    <h3 align="left">👋🏻 You Can Find me at:</h3>
+ <h3 align="left">👋🏻 You Can Find me at:</h3>
 
 <p align="left">
    <a href="https://www.linkedin.com/in/alaa-mousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaamousa" height="30" width="40" /></a>
