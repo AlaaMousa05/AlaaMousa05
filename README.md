@@ -19,7 +19,7 @@
 
 <p align="left">- 📚 Student at Palestine Technical University kadoorie .<br>- ⚡ I strive to create the best version of myself .</p>
 <hr>
-
+<h2 align="left">  problems solving 📈</h2>
 
 <h2 align="left"> 🧠🛠 Language and tools</h2>
 
