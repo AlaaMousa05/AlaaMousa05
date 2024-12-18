@@ -6,7 +6,7 @@
  <h2 align="left">👋🏻 You Can Find me at:</h2>
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/alaa-mousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaamousa" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/alaa-mousa-55888b284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaamousa" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/alaa-mousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alaa-mousa" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/hakar2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AlaaMousa" height="30" width="40" /></a>
 </p>
