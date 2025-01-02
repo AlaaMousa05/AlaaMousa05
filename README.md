@@ -59,7 +59,14 @@
 <h2 align="left">🔥   My Stats :</h2>
 <br>
 
+<div align="center">
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlaaMousa05&bg_color=0d1117&color=58a6ff&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="Alaa's GitHub activity graph" width="100%" height="400px" style="border-radius: 10px;"/>
+  </a>
 
+  <br><br>
+  
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AlaaMousa05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 <br>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaMousa05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -68,8 +75,6 @@
 </div>
 
 ###
-
-[![Alaa Mousa GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaaMousa05&bg_color=1a1b27&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 
