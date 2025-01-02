@@ -59,7 +59,9 @@
 <h2 align="left">🔥   My Stats :</h2>
 <br>
 
-[![Alaa Mousa GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlaaMousa05&bg_color=1a1b27&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/AlaaMousa05" target="_blank" style="transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlaaMousa05&bg_color=0d1117&color=58a6ff&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="Alaa's GitHub activity graph" width="100%" height="400px" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);"/>
+  </a>
 
   <br><br>
   
