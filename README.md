@@ -15,11 +15,17 @@
 
 <h2 align="left">👩‍💻  About Me</h2>
 
-
-
-<p align="left">- 📚 Student at Palestine Technical University kadoorie .<br>- ⚡ I strive to create the best version of myself .</p>
-<hr>
-
+📚 A Computer Systems Engineering student at Palestine Technical University - Kadoorie.
+<br>
+💻 A front-end developer with a deep passion for creating seamless user experiences and innovative web solutions.
+<br>
+🚀 Focused on building scalable, efficient projects that make an impact in solving real-world problems.
+<br>
+🌟 Committed to continuous learning, with experience in artificial intelligence, problem-solving, and database management.
+<br>
+📈 Aspiring to be a leader in the tech field, designing solutions that redefine the digital future.
+<br>
+✨ My vision: "The future is not what we wait for, but what we create with our own hands."
 
 
 
