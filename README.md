@@ -16,7 +16,7 @@
 
 <h2 align="left">📬 Contact Me</h2>
 
-📧 Email: [alaa.mousa025@gmail.com](alaa.mousa025@gmail.com)  
+📧 Email: [alaa.mousa025@gmail.com](mailto:alaa.mousa025@gmail.com)   
 🔗 LinkedIn: [https://www.linkedin.com/in/alaa-mousa-55888b284/](https://www.linkedin.com/in/alaa-mousa-55888b284/)
 
 ---
