@@ -1,36 +1,40 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=222&section=header&text=Hi,%20I'm%20%20Alaa%20mousa⚡️&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
 
 <h1 align="center">   Software Engineering 👩🏻‍💻 </h1>
-  <hr>
-
- <h2 align="left">👋🏻 You Can Find me at:</h2>
-
-<p align="left">
-   <a href="https://www.linkedin.com/in/alaa-mousa-55888b284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaamousa" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/alaa-mousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alaa-mousa" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/hakar2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AlaaMousa" height="30" width="40" /></a>
-</p>
 <hr>
-
 
 <h2 align="left">👩‍💻  About Me</h2>
 
-📚 A Computer Systems Engineering student at Palestine Technical University - Kadoorie.
-<br>
-💻 A front-end developer with a deep passion for creating seamless user experiences and innovative web solutions.
-<br>
-🚀 Focused on building scalable, efficient projects that make an impact in solving real-world problems.
-<br>
-🌟 Committed to continuous learning, with experience in artificial intelligence, problem-solving, and database management.
-<br>
-📈 Aspiring to be a leader in the tech field, designing solutions that redefine the digital future.
-<br>
+📚 A Computer Systems Engineering student at Palestine Technical University - Kadoorie.  
+💻 A front-end developer with a deep passion for creating seamless user experiences and innovative web solutions.  
+🚀 Focused on building scalable, efficient projects that make an impact in solving real-world problems.  
+🌟 Committed to continuous learning, with experience in artificial intelligence, problem-solving, and database management.  
+📈 Aspiring to be a leader in the tech field, designing solutions that redefine the digital future.  
 ✨ My vision: "The future is not what we wait for, but what we create with our own hands."
 
+---
 
+<h2 align="left">📬 Contact Me</h2>
 
+📧 Email: [alaa.mousa025@gmail.com](alaa.mousa025@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/alaa-mousa-55888b284/](https://www.linkedin.com/in/alaa-mousa-55888b284/)
 
-<h2 align="left"> 🧠🛠 Language and Tools</h2>
+---
+
+<h2 align="left">🚀 My Coding Playground</h2>
+
+<p align="left">
+  <a href="https://leetcode.com/u/hakar2022/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://codeforces.com/profile/alaa-mousa" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+  </a>
+</p>
+
+---
+
+<h2 align="left">🧠🛠 Language and Tools</h2>
 
 <div align="left">
 
@@ -88,29 +92,23 @@
 </div>
 <hr>
 
-
 <h2 align="left">🔥   My Stats :</h2>
 <br>
 
 <a href="https://github.com/AlaaMousa05" target="_blank" style="transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlaaMousa05&bg_color=0d1117&color=58a6ff&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="Alaa's GitHub activity graph" width="100%" height="400px" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlaaMousa05&bg_color=0d1117&color=58a6ff&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="Alaa's GitHub activity graph" width="100%" height="400px" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);" />
+</a>
 
-  <br><br>
-  
+<br><br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlaaMousa05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-<br>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaMousa05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<br> 
- <img src="https://github-readme-stats.vercel.app/api?username=AlaaMousa05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"   />
+  <img src="https://streak-stats.demolab.com?user=AlaaMousa05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaMousa05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlaaMousa05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" />
 </div>
 
-###
-
-
-
-
-
-
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
+
+
