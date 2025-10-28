@@ -6,11 +6,16 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 📚 A Computer Systems Engineering student at Palestine Technical University - Kadoorie.  
-💻 Front-End Developer | React & Node | MERN Stack
-🏆 Winner – Aqlama.ai Challenge, Hackathon Stichting SPARK (Google Launchpad) Jun 2025
-🛠 Built full-stack projects using React, Next.js, Node.js, Express.js, MongoDB & Tailwind CSS
-🌱 Passionate about AI & Data | Lifelong learner | Mentoring & contributing to tech communities
-😄 Fun Fact: I build apps that understand users… while I’m still figuring myself out
+
+💻 Front-End Developer | React & Node | MERN Stack.
+
+🏆 Winner – Aqlama.ai Challenge, Hackathon Stichting SPARK (Google Launchpad) Jun 2025.
+
+🛠 Built full-stack projects using React, Next.js, Node.js, Express.js, MongoDB & Tailwind CSS.
+
+🌱 Passionate about AI & Data | Lifelong learner | Mentoring & contributing to tech communities.
+
+😄 Fun Fact: I build apps that understand users… while I’m still figuring myself out.
 
 ---
 
