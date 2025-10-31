@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8a8cb2&height=222&section=header&text=Hi,%20I'm%20%20Alaa%20mousa⚡️&fontSize=45&colorA=8ECF6E&colorB=61BD4F&width=1000&fontColor=ffffff)
 
-<h1 align="center">   Software Engineering 👩🏻‍💻 </h1>
+<h1 align="center">   Software Engineer 👩🏻‍💻 </h1>
 <hr>
 
 <h2 align="left">👩‍💻  About Me</h2>
